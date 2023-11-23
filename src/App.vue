@@ -10,7 +10,7 @@ const estado = reactive({
     },
     {
       titulo: "Estudar SASS",
-      finalizada: true,
+      finalizada: false,
     },
     {
       titulo: "ir para academia",
